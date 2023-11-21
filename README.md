@@ -30,20 +30,24 @@ Follow these steps to set up the project:
    git clone https://github.com/MosiaPuseletso/brand.git
 
 3. Navigate to the project directory
+
     ```bash
     cd brand
 
 4. Install dependencies for Frontend
+
     ```bash
     npm install
 
 5. Install dependencies for Backend
 
-    5a. Navigate to backend directory
+    a. Navigate to backend directory
+
         ```bash
         cd backend
 
-    5b. Install dependencies
+    b. Install dependencies
+    
         ```bash
         npm install
 
