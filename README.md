@@ -30,24 +30,31 @@ Follow these steps to set up the project:
    git clone https://github.com/MosiaPuseletso/brand.git
 
 3. Navigate to the project directory
-   cd brand
+    ```bash
+    cd brand
 
 4. Install dependencies for Frontend
+    ```bash
     npm install
 
 5. Install dependencies for Backend
+
     5a. Navigate to backend directory
+        ```bash
         cd backend
 
     5b. Install dependencies
+        ```bash
         npm install
 
 ## Usage
 
-# Start the backend server
-npm start
+1. Start backend server
+    ```bash
+    npm start
 
-# Start the React app
-npm start
+2. Start React application
+    ```bash
+    npm start
 
 Visit http://localhost:3000 in your browser to view the application.
