@@ -43,18 +43,16 @@ Follow these steps to set up the project:
 
     a. Navigate to backend directory
 
-        ```bash
         cd backend
 
     b. Install dependencies
-    
-        ```bash
+
         npm install
 
 ## Usage
 
 1. Start backend server
-    ```bash
+
     npm start
 
 2. Start React application
